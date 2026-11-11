@@ -1,0 +1,23 @@
+# 构建产物
+build/
+*.apk
+*.apk.idsig
+*.dex
+
+# 签名文件（含私钥，绝不能提交）
+*.keystore
+*.jks
+*.p12
+
+# 本地配置
+local.properties
+*.local
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
