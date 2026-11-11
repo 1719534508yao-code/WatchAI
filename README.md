@@ -1,5 +1,11 @@
 # ⌚ WatchAI
 
+## 📥 [**点此下载 APK**](https://github.com/1719534508yao-code/WatchAI/releases/latest)
+
+> 253 KB · 支持 Android 8.1+（armeabi-v7a）· 零第三方依赖
+
+---
+
 > 给你的安卓手表装一个能说话的 DeepSeek。
 
 ![platform](https://img.shields.io/badge/Android-8.1%20%2F%20API%2027-3DDC84?logo=android&logoColor=white)
@@ -84,7 +90,7 @@
 
 ### 第 2 步：拿到 APK
 
-**方式 A**：从 [Releases](../../releases) 下载现成的 `watchai.apk`
+**方式 A**：[**直接下载 `watchai.apk`**](https://github.com/1719534508yao-code/WatchAI/releases/latest)（推荐）
 
 **方式 B**：自己编译（约 5 秒）
 
